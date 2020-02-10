@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(#84B9DF, #78A9CB);
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    text-indent: 30px;
+    margin: 0 50px;
+    padding: 10px;'
+    background;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    border: 8px;
+    border-style: groove;
+    border-color: grey;
+    background: linear-gradient(#BE6F7F, #AD6574);
+}
+
+#welcome {
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    margin-left: -51.3%;
+    margin-top: 200px;
+    background: rgba(200, 200, 200, .7)
+}
+
+.full-width-img {
+    width: 100%;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px;
+    background: #F4EDE2;
+    border-radius: 10px;
+}
+
+.post-title {
+    margin: 10px;
+    text-decoration: underline;
+}
