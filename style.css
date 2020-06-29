@@ -4,7 +4,7 @@
 }
 
 body {
-    background: linear-gradient(#84B9DF, #78A9CB);
+    background: #69B8C7;
     font-family: sans-serif;
 }
 
@@ -14,8 +14,8 @@ h3 {
 
 p, ul {
     text-indent: 30px;
-    margin: 0 50px;
-    padding: 10px;
+    margin: 0 3%;
+    padding: 5px;
     background:none;
 }
 
@@ -28,33 +28,32 @@ p, ul {
 .header {
     text-align: center;
     margin: 0 auto;
-    padding: 10px;
+    padding: 20px;
     border: 8px;
     border-style: groove;
-    border-color: grey;
-    background: linear-gradient(#BE6F7F, #AD6574);
+    border-color: whitesmoke;
+    background: #D4746A;
 }
 
 #welcome {
     font-weight: bold;
     font-size: 30px;
     position: absolute;
-    width: 100%;
-    left: 50%;
-    margin-left: -51.3%;
-    margin-top: 200px;
+    top: 300px;
     background: rgba(200, 200, 200, .7)
 }
 
 .full-width-img {
+    right: 0;
+    height: 600px;
     width: 100%;
 }
 
 .wrapper {
-    width: 1000px;
+    width: 90%;
     margin: 20px auto;
     padding: 10px;
-    background: #F4EDE2;
+    background: #FFBFB8;
     border-radius: 10px;
 }
 
@@ -64,5 +63,5 @@ p, ul {
 }
 
 .vocab {
-    background-color: azure;
+    background-color: #CEEC9D;
 }
